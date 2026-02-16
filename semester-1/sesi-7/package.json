@@ -13,7 +13,7 @@
   "author": "akhmadsakhoji",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.19",
+    "nodemon": "^2.0.22",
     "rupiah-format": "^1.0.0"
   }
 }
